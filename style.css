@@ -1,0 +1,25 @@
+header {
+    background-color: black;
+    font-family: Calibri, sans-serif;
+    text-align: center;
+    color: white;
+    width: 80%;
+    margin: auto;
+}
+h1 {
+    background-color: red;
+}
+table {
+    width: 80%;
+    margin: auto;
+    background-color: #E0E0E0;
+}
+thead {
+    font-family: Cambria, sans-serif;
+    background-color: red;
+}
+td {
+    font-family: 'Times New Roman', Times, serif;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
